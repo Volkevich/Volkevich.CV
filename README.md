@@ -9,6 +9,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with creation of telegram bots and payment systems built into bots.
 - 💬 Ask me about Java or Cybercrime, I gave 10 years to fight against them.
 - 📫 How to reach me: 
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 - https://www.linkedin.com/in/vitali-volkevich-000645236/
 - https://www.instagram.com/vitaly.vvvv/
 https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FVlasovVitali
