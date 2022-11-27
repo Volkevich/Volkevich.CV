@@ -1,5 +1,5 @@
 ### Hi there 👋
-![image]({https://www.linkedin.com/in/vitali-volkevich-000645236/})
+![image]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white})
                                       
                                       https://github-readme-stats.vercel.app/api/top-langs/?username={volkevich}
 
