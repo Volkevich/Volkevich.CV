@@ -1,7 +1,5 @@
 ### Hi there 👋
-![image]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white})
-                                      
-                                      https://github-readme-stats.vercel.app/api/top-langs/?username={volkevich}
+<img src="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" />
 
 
 - 🔭 I’m currently working on creating a social network for animals along with the study of Spring and all its aspects.
