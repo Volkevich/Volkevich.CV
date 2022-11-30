@@ -15,7 +15,12 @@
       </a> <b><b><a href="https://www.instagram.com/vitaly.vvvv/" rel="nofollow">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" data-canonical-src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
  </p>
-
+<p align='center'>
+   <a href="https://github-readme-stats.vercel.app/api?username=romankh3&show_icons=true&count_private=true">
+       <img height=150 src="https://github-readme-stats.vercel.app/api?username=romankh3&show_icons=true&count_private=true"/></a>
+   <a href="https://github.com/romankh3/github-readme-stats">
+       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=romankh3&layout=compact"/></a>
+</p>
 <h1></H1>
   <a href="https://github.com/romankh3/github-readme-stats"><img height="150" src="https://camo.githubusercontent.com/84dcde46ff8acaeb7ac9b4ced9583ddb5a384e8743154a26b47c9ef8dc7d0ce0/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d726f6d616e6b6833266c61796f75743d636f6d70616374" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=romankh3&amp;layout=compact" style="max-width: 100%;"></a>
 
