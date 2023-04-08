@@ -4,7 +4,6 @@
 - 🔭 I’m currently working on creating a social network for animals along with the study of Spring and all its aspects.
 - 🌱 I’m currently learning develop with Spring, learn Spring Security, and so on.
 - 🤔 I’m looking for help with creation of telegram bots and payment systems built into bots.
-- 💬 Ask me about Java or Cybercrime, I gave 10 years to fight against them.
 
 
 <p align="center" dir="auto">
