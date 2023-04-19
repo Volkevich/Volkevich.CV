@@ -1,8 +1,8 @@
 ### Hi, I'am Vitaly 👋
 
-<H3> Now I'm working on interesting commercial projects.</H3>
-<H3> - 🔭 I’m currently working on creating a social network for animals along with the study of Spring and all its aspects.</H3>
-<H3> - 🌱 I’m currently learning develop with Spring, learn Spring Security, and so on.</H3>
+<H3> Now I'm working on interesting commercial projects...</H3>
+<H3> - 🔭 Blockchain projects, trading bots and much more.</H3>
+<H3> - 🌱 Recently, I got acquainted with Web 3.0 technology, as well as authorization using cold cryptocurrency wallets on various platforms.</H3>
 <H3> - 🤔 I can help you in writing Telegram bots. I'll help with the databases. Contact me, I love interesting tasks.</H3>
 
 
@@ -21,4 +21,4 @@
        <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=volkevich&layout=compact"/></a>
 </p>
 
-  <H1>📫 How to reach me: vitalyvolkevich@gmail.com</H1> 
+  <H2>📫 How to reach me: vitalyvolkevich@gmail.com</H2> 
