@@ -1,8 +1,8 @@
 ### Hi, I'am Vitaly 👋
 # Hello there 👋
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=87798074)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=87798074&left_text=My%20Page%20Visitors)
+
 
 <H3> Now I'm working on interesting commercial projects...</H3>
 <H3> - 🔭 Blockchain projects, trading bots and much more.</H3>
