@@ -17,6 +17,7 @@ class Java/KotlinDeveloper:
 <H3> - 🔭 Blockchain projects, trading bots and much more.</H3>
 <H3> - 🌱 Recently, I got acquainted with Web 3.0 technology, as well as authorization using cold cryptocurrency wallets on various platforms.</H3>
 <H3> - 🤔 I can help you in writing Telegram bots. I'll help with the databases. Contact me, I love interesting tasks.</H3>
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 
 <p align="center" dir="auto">
