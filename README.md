@@ -1,7 +1,17 @@
 # Hello there 👋
 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=87798074&left_text=My%20Page%20Visitors)
+```Java, Kotlin
+#!/usr/bin/java
+# -*- coding: utf-8 -*-
 
+
+class Java/KotlinDeveloper:
+        String name = "Vitaly";
+        String role = "Java/Kotlin Developer";
+        String secondRole = "Android Developer";
+        String [] language_spoken = {"ru_RU", "en_US"};
+```
 
 <H3> Now I'm working on interesting commercial projects...</H3>
 <H3> - 🔭 Blockchain projects, trading bots and much more.</H3>
