@@ -1,5 +1,8 @@
 ### Hi, I'am Vitaly 👋
+# Hello there 👋
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=zhenye-na.zhenye-na)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 <H3> Now I'm working on interesting commercial projects...</H3>
 <H3> - 🔭 Blockchain projects, trading bots and much more.</H3>
 <H3> - 🌱 Recently, I got acquainted with Web 3.0 technology, as well as authorization using cold cryptocurrency wallets on various platforms.</H3>
