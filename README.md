@@ -1,6 +1,5 @@
 # Hello there 👋
 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=87798074&left_text=My%20Page%20Visitors)
 ```Java, Kotlin
 #!/usr/bin/java
 # -*- coding: utf-8 -*-
