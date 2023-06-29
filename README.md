@@ -26,12 +26,6 @@ class Java/KotlinDeveloper:
   </a>&nbsp;&nbsp;
       </a> <b><b><a href="https://instagram.com/vitaliy.illi" rel="nofollow">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" data-canonical-src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
- </p>
-<p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=volkevich&show_icons=true&count_private=true">
-       <img height=150 src="https://github-readme-stats.vercel.app/api?username=volkevich&show_icons=true&count_private=true"/></a>
-   <a href="https://github.com/volkevich/github-readme-stats">
-       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=volkevich&layout=compact"/></a>
-</p>
+
 
   <H2>📫 How to reach me: vitalyvolkevich@gmail.com</H2> 
