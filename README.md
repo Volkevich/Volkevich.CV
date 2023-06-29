@@ -26,6 +26,10 @@ class Java/KotlinDeveloper:
   </a>&nbsp;&nbsp;
       </a> <b><b><a href="https://instagram.com/vitaliy.illi" rel="nofollow">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" data-canonical-src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-
+<p align="center">
+  <a href="https://github.com/volkevich">
+    <img src="https://komarev.com/ghpvc/?username=volkevich&color=blue&style=flat)" />
+  </a>
+</p>
 
   <H2>📫 How to reach me: vitalyvolkevich@gmail.com</H2> 
