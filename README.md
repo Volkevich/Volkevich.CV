@@ -1,17 +1,18 @@
 # Hello there 👋
 
-```Java, Kotlin
-#!/usr/bin/java
+```Java, Kotlin, Python, Security engineer, AppSec.
+
 # -*- coding: utf-8 -*-
 
 
-class Java/KotlinDeveloper:
+class Developer:
         String name = "Vitaly";
         String role = "Java/Kotlin Developer";
-        String secondRole = "Android Developer";
+        String role_1 = "Android Developer";
+        String role_2 = "Python Developer";
         String [] language_spoken = {"ru_RU", "en_US"};
 ```
-### ![Kotlin](https://img.shields.io/badge/Kotlin-blueviolet?style=for-the-badge&logo=Kotlin&logoColor=blue) ![Android_Studio](https://img.shields.io/badge/Android_Studio-black?style=for-the-badge&logo=AndroidStudio&logoColor=green) ![Spring Java](https://img.shields.io/badge/Spring_Java-green?style=for-the-badge&logo=Spring&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=Docker&logoColor=white) ![Blockchain](https://img.shields.io/badge/Blockchain-darkblue?style=for-the-badge&logo=Blockchain.com&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![mySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=PostgreSQL&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+### ![Kotlin](https://img.shields.io/badge/Kotlin-blueviolet?style=for-the-badge&logo=Kotlin&logoColor=blue) ![Android_Studio](https://img.shields.io/badge/Android_Studio-black?style=for-the-badge&logo=AndroidStudio&logoColor=green) ![Spring Java](https://img.shields.io/badge/Spring_Java-green?style=for-the-badge&logo=Spring&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=Docker&logoColor=white) ![Blockchain](https://img.shields.io/badge/Blockchain-darkblue?style=for-the-badge&logo=Blockchain.com&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![mySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=PostgreSQL&logoColor=white)![Python](<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="128" height="128"/> ) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 <H3> Now I'm working on interesting commercial projects...</H3>
 <H3> - 🔭 Blockchain projects, trading bots and much more.</H3>
 <H3> - 🌱 Recently, I got acquainted with Web 3.0 technology, as well as authorization using cold cryptocurrency wallets on various platforms.</H3>
