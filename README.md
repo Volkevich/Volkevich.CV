@@ -12,6 +12,11 @@ By day, I am a versatile developer, fluent in Java, Kotlin, and Python, crafting
 * 🤝  I'm open to collaborating on Blockchain project, Telegram Apps, Spring project
 
 
+-- coding: utf-8 --
+class Developer: String name = "Vitaly"; String role = "Java/Kotlin Developer"; String role_1 = "Android Developer"; String role_2 = "Python Developer"; Long experience = 4; String [] language_spoken = {"ru_RU", "en_US"}; class Security Engineer: private String[] skills = { "Penetration Testing", "Vulnerability Assessment", "Threat Modeling", "Secure Code Review", "Incident Response", "Risk Management", "Security Audits", "Cryptography", "Network Security", "Compliance and Regulatory Requirements", "Security Awareness Training", "Application Security", "Cloud Security", "DevSecOps"}; Long experience = 5; \```
+
+
+
 ### Skills
 
 
