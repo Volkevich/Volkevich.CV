@@ -27,8 +27,7 @@ By day, I am a versatile developer, fluent in Java, Kotlin, and Python, crafting
 
 <a href="https://github.com/volkevich">
     <img src="https://komarev.com/ghpvc/?username=volkevich&color=blue&style=flat)" />
-  </a>
-</p>
+
 
 
 ### Socials
