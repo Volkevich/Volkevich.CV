@@ -12,7 +12,7 @@ By day, I am a versatile developer, fluent in Java, Kotlin, and Python, crafting
 * 🤝  I'm open to collaborating on Blockchain project, Telegram Apps, Spring project
 
 
-# -*- coding: utf-8 -*-
+-*- coding: utf-8 -*-
 class Developer:
         String name = "Vitaly";
         String role = "Java/Kotlin Developer";
