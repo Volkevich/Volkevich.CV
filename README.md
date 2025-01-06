@@ -37,8 +37,6 @@ class Security Engineer:
         "Cloud Security",
         "DevSecOps"};
         Long experience = 5;
-#
-
 
 
 ### Skills
