@@ -43,6 +43,6 @@ class Security Engineer:
   </a>
 </p>
 
-  <H2>📫 How to reach me: 
-![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitali-volkevich-000645236)
+  <H2>📫 How to reach me:
 vitalyvolkevich@gmail.com</H2> 
+![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitali-volkevich-000645236)
