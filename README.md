@@ -1,5 +1,4 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vitaly Volkevich
-
 ========================================================================================================================================
 
 Kotlin/Java/ Python/Android developer and Security Engineer
@@ -11,7 +10,7 @@ By day, I am a versatile developer, fluent in Java, Kotlin, and Python, crafting
 * ✉️  You can contact me at [vitalyvolkevich@gmail.com](mailto:vitalyvolkevich@gmail.com)
 * 🧠  I'm learning blockchain projecs, ktor, SDL,Fuzzing, SAST, CPS, K8S:Kubernetes,
 * 🤝  I'm open to collaborating on Blockchain project, Telegram Apps, Spring project
-![](https://komarev.com/ghpvc/?username=volkevich&style=for-the-badge)
+
 
 ```Java, Kotlin, Python, Security engineer, AppSec.
 # -*- coding: utf-8 -*-
@@ -40,7 +39,7 @@ class Security Engineer:
         "DevSecOps"};
         Long experience = 5;
 ```
-
+![](https://komarev.com/ghpvc/?username=volkevich&style=for-the-badge)
 ### Skills
 
 
