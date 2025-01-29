@@ -7,6 +7,7 @@ Kotlin/Java/ Python/Android developer and Security Engineer
 By day, I am a versatile developer, fluent in Java, Kotlin, and Python, crafting robust Android applications, microservices, and parsers for state systems. By night, I transform into a cybersecurity sentinel, leveraging my expertise from the Ministry of Internal Affairs. I've thwarted hackers, fortified defenses, and ensured the digital safety of countless systems. My skills include detecting, preventing, and responding to various cyber threats like DDoS attacks , malware, and phishing.
 
 * 🌍  I'm based in Minsk
+* ☝️. Confident knowledge of OWASP TOP 10, OWASP Mobile top 10 and CWE Top 25;
 * ✉️  You can contact me at [vitalyvolkevich@gmail.com](mailto:vitalyvolkevich@gmail.com)
 * 🧠  I'm learning blockchain projecs, ktor, SDL,Fuzzing, SAST, CPS, K8S:Kubernetes,
 * 🤝  I'm open to collaborating on Blockchain project, Telegram Apps, Spring project
