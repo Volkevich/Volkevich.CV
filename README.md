@@ -24,6 +24,10 @@ class Developer:
         String [] language_spoken = {"ru_RU", "en_US"};
 class Security Engineer: 
         private String[] skills = {
+        "OWASP TOP 10",
+        "OWASP Mobile TOP 10",
+        "CWE TOP 25",
+        "Burp Suite",
         "Penetration Testing",
         "Vulnerability Assessment",
         "Threat Modeling",
